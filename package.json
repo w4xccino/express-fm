@@ -1,6 +1,7 @@
 {
-  "name": "open-react-template",
+  "name": "express-fm",
   "version": "0.1.0",
+  "homepage":"https://w4xccino.github.io/express-fm",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
@@ -36,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
