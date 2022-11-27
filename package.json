@@ -1,5 +1,6 @@
 {
   "name": "express-fm",
+  "homepage": "https://w4xccino.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,6 +17,9 @@
     "type": "git",
     "url": "https://github.com/cruip/open-react-template.git"
   },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -26,11 +30,7 @@
     "extends": "react-app"
   },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
+    "production": [">0.2%", "not dead", "not op_mini all"],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
