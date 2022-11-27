@@ -25,7 +25,7 @@ const Hero = ({
   invertColor,
   ...props
 }) => {
-  const [videoModalActive, setVideomodalactive] = useState(false);
+  const [setVideomodalactive] = useState(false);
 
   const openModal = (e) => {
     e.preventDefault();
@@ -88,16 +88,16 @@ const Hero = ({
             </div>
           </div>
           <div></div>
-          <div>
-            <video
-              controls
-              autoplay
-              name="media"
-              poster="http://www.fmexpres.com/wp-content/uploads/2020/12/Logo-4.jpg"
-            >
-              <source src="http://20.254.104.74:8000/live" type="audio/aac" />
-            </video>
-          </div>
+          {/* <div> */}
+          {/*   <video */}
+          {/*     controls */}
+          {/*     autoplay */}
+          {/*     name="media" */}
+          {/*     poster="http://www.fmexpres.com/wp-content/uploads/2020/12/Logo-4.jpg" */}
+          {/*   > */}
+          {/*     <source src="http://20.254.104.74:8000/live" type="audio/aac" /> */}
+          {/*   </video> */}
+          {/* </div> */}
         </div>
       </div>
     </section>

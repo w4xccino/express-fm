@@ -13,8 +13,8 @@ const Logo = ({ className, ...props }) => {
           <Image
             src={require("./../../../assets/images/logo.png")}
             alt="Open"
-            width={180}
-            height={180}
+            width={150}
+            height={150}
           />
         </Link>
       </h1>
