@@ -4,8 +4,11 @@ import { SectionProps } from "../../utils/SectionProps";
 import ButtonGroup from "../elements/ButtonGroup";
 import Button from "../elements/Button";
 // import Image from "../elements/Image";
-import Modal from "../elements/Modal";
-import RadioPlayer from "./RadioPlayer";
+// import Modal from "../elements/Modal";
+// import RadioPlayer from "./RadioPlayer";
+
+import ReactJkMusicPlayer from "react-jinke-music-player";
+import "react-jinke-music-player/assets/index.css";
 
 const propTypes = {
   ...SectionProps.types,
@@ -26,6 +29,30 @@ const Hero = ({
   ...props
 }) => {
   const [setVideomodalactive] = useState(false);
+
+  const audioList = [
+    {
+      musicSrc: "https://eu1.serviaudio.com:10925/index.html/live",
+      name: "Radio FM Expres",
+      cover: require("../../assets/images/logo-player.png"),
+    },
+  ];
+  const playerOptions = {
+    audioLists: audioList,
+    autoPlay: true,
+    showPlay: true,
+    showPlayMode: false,
+    showDownload: false,
+    showLyric: false,
+    showReload: false,
+    showProgressLoadBar: false,
+    showMiniProcessBar: false,
+    defaultPosition: {
+      bottom: 20,
+      right: 20,
+    },
+    drag: false,
+  };
 
   const openModal = (e) => {
     e.preventDefault();
@@ -61,17 +88,22 @@ const Hero = ({
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
             >
-              Radio Express FM <p className="text-color-primary">98.9</p>
+              Radio Expres <p className="text-color-primary">98.9</p>
             </h1>
+            <ReactJkMusicPlayer {...playerOptions} />
             <div className="container-xs">
               <p
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                Con la musica de tu mejor epoca!
+                Con el Rock and Pop de tu mejor epoca!
               </p>
               <div>
-                <RadioPlayer />
+                {/* <RadioPlayer */}
+                {/*   showPlay={true} */}
+                {/*   autoPlay={true} */}
+                {/*   toggleMode={true} */}
+                {/* /> */}
               </div>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -106,5 +138,4 @@ const Hero = ({
 
 Hero.propTypes = propTypes;
 Hero.defaultProps = defaultProps;
-
 export default Hero;
