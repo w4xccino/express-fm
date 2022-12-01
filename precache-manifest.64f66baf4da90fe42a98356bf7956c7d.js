@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b9f74bd53d70622c1e47253c7be2c1c",
+    "revision": "440e293e63a15c702531f8d5cb83b06a",
     "url": "/express-fm/index.html"
   },
   {
-    "revision": "a520ec0adfd3d4921dca",
-    "url": "/express-fm/static/css/main.04256760.chunk.css"
+    "revision": "fe3d31b704d82569cec0",
+    "url": "/express-fm/static/css/2.e5cc46b6.chunk.css"
   },
   {
-    "revision": "26208c851ba3f5fa25f4",
-    "url": "/express-fm/static/js/2.0e477c1c.chunk.js"
+    "revision": "d165e1d8fb54c567a84b",
+    "url": "/express-fm/static/css/main.1aed6464.chunk.css"
   },
   {
-    "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/express-fm/static/js/2.0e477c1c.chunk.js.LICENSE.txt"
+    "revision": "fe3d31b704d82569cec0",
+    "url": "/express-fm/static/js/2.14ce788b.chunk.js"
   },
   {
-    "revision": "a520ec0adfd3d4921dca",
-    "url": "/express-fm/static/js/main.3fb6aec3.chunk.js"
+    "revision": "8e9933e35dbafc137323728b680649d5",
+    "url": "/express-fm/static/js/2.14ce788b.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "d165e1d8fb54c567a84b",
+    "url": "/express-fm/static/js/main.1277a8b1.chunk.js"
   },
   {
     "revision": "ad68fa938e84653a3bf9",
@@ -52,27 +56,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/express-fm/static/media/feature-tile-icon-06.6a177696.svg"
   },
   {
-    "revision": "d9cb99ceb6a66250792ed78f5765325b",
-    "url": "/express-fm/static/media/features-split-image-01.d9cb99ce.png"
-  },
-  {
-    "revision": "3c569239f88160018f79029ba5dc227d",
-    "url": "/express-fm/static/media/features-split-image-02.3c569239.png"
-  },
-  {
-    "revision": "87e4d053756c60c9f421195d8eafdbfe",
-    "url": "/express-fm/static/media/features-split-image-03.87e4d053.png"
-  },
-  {
-    "revision": "ea6949039d6554ebf2cf109f333f5811",
-    "url": "/express-fm/static/media/illustration-section-01.ea694903.svg"
+    "revision": "37c609c4d16b16970f083f7c533ab9f4",
+    "url": "/express-fm/static/media/illustration-section-01.37c609c4.svg"
   },
   {
     "revision": "63d0555d90c053eea1a1a7469d004661",
     "url": "/express-fm/static/media/illustration-section-02.63d0555d.svg"
   },
   {
-    "revision": "2810a88b1d6365b363caeabe678f1629",
-    "url": "/express-fm/static/media/logo.2810a88b.svg"
+    "revision": "25f003812cbc9789e60815f7ea21e9e2",
+    "url": "/express-fm/static/media/logo-player.25f00381.png"
+  },
+  {
+    "revision": "e69f4151341ee8923de5449b5baed01f",
+    "url": "/express-fm/static/media/logo.e69f4151.png"
   }
 ]);

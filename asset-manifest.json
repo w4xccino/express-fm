@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/express-fm/static/css/main.04256760.chunk.css",
-    "main.js": "/express-fm/static/js/main.3fb6aec3.chunk.js",
-    "main.js.map": "/express-fm/static/js/main.3fb6aec3.chunk.js.map",
+    "main.css": "/express-fm/static/css/main.1aed6464.chunk.css",
+    "main.js": "/express-fm/static/js/main.1277a8b1.chunk.js",
+    "main.js.map": "/express-fm/static/js/main.1277a8b1.chunk.js.map",
     "runtime-main.js": "/express-fm/static/js/runtime-main.80c9ea68.js",
     "runtime-main.js.map": "/express-fm/static/js/runtime-main.80c9ea68.js.map",
-    "static/js/2.0e477c1c.chunk.js": "/express-fm/static/js/2.0e477c1c.chunk.js",
-    "static/js/2.0e477c1c.chunk.js.map": "/express-fm/static/js/2.0e477c1c.chunk.js.map",
+    "static/css/2.e5cc46b6.chunk.css": "/express-fm/static/css/2.e5cc46b6.chunk.css",
+    "static/js/2.14ce788b.chunk.js": "/express-fm/static/js/2.14ce788b.chunk.js",
+    "static/js/2.14ce788b.chunk.js.map": "/express-fm/static/js/2.14ce788b.chunk.js.map",
     "index.html": "/express-fm/index.html",
-    "precache-manifest.0d88ee5ebd2805dfdd09894b09ea14a3.js": "/express-fm/precache-manifest.0d88ee5ebd2805dfdd09894b09ea14a3.js",
+    "precache-manifest.64f66baf4da90fe42a98356bf7956c7d.js": "/express-fm/precache-manifest.64f66baf4da90fe42a98356bf7956c7d.js",
     "service-worker.js": "/express-fm/service-worker.js",
-    "static/css/main.04256760.chunk.css.map": "/express-fm/static/css/main.04256760.chunk.css.map",
-    "static/js/2.0e477c1c.chunk.js.LICENSE.txt": "/express-fm/static/js/2.0e477c1c.chunk.js.LICENSE.txt",
+    "static/css/2.e5cc46b6.chunk.css.map": "/express-fm/static/css/2.e5cc46b6.chunk.css.map",
+    "static/css/main.1aed6464.chunk.css.map": "/express-fm/static/css/main.1aed6464.chunk.css.map",
+    "static/js/2.14ce788b.chunk.js.LICENSE.txt": "/express-fm/static/js/2.14ce788b.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/express-fm/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/express-fm/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/express-fm/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -19,15 +21,14 @@
     "static/media/feature-tile-icon-04.svg": "/express-fm/static/media/feature-tile-icon-04.836acd10.svg",
     "static/media/feature-tile-icon-05.svg": "/express-fm/static/media/feature-tile-icon-05.fa9ba00b.svg",
     "static/media/feature-tile-icon-06.svg": "/express-fm/static/media/feature-tile-icon-06.6a177696.svg",
-    "static/media/features-split-image-01.png": "/express-fm/static/media/features-split-image-01.d9cb99ce.png",
-    "static/media/features-split-image-02.png": "/express-fm/static/media/features-split-image-02.3c569239.png",
-    "static/media/features-split-image-03.png": "/express-fm/static/media/features-split-image-03.87e4d053.png",
-    "static/media/logo.svg": "/express-fm/static/media/logo.2810a88b.svg"
+    "static/media/logo-player.png": "/express-fm/static/media/logo-player.25f00381.png",
+    "static/media/logo.png": "/express-fm/static/media/logo.e69f4151.png"
   },
   "entrypoints": [
     "static/js/runtime-main.80c9ea68.js",
-    "static/js/2.0e477c1c.chunk.js",
-    "static/css/main.04256760.chunk.css",
-    "static/js/main.3fb6aec3.chunk.js"
+    "static/css/2.e5cc46b6.chunk.css",
+    "static/js/2.14ce788b.chunk.js",
+    "static/css/main.1aed6464.chunk.css",
+    "static/js/main.1277a8b1.chunk.js"
   ]
 }
