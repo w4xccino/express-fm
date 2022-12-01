@@ -37,7 +37,12 @@ const App = () => {
       ref={childRef}
       children={() => (
         <Switch>
-          <AppRoute exact path="/" component={Home} layout={LayoutDefault} />
+          <AppRoute
+            exact
+            path="/express-fm"
+            component={Home}
+            layout={LayoutDefault}
+          />
         </Switch>
       )}
     />
