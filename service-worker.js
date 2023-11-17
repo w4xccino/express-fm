@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/express-fm/precache-manifest.64f66baf4da90fe42a98356bf7956c7d.js"
+  "/express-fm/precache-manifest.786a44569bb5d47ab8e57bf157a4c722.js"
 );
 
 self.addEventListener('message', (event) => {

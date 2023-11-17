@@ -1,27 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "440e293e63a15c702531f8d5cb83b06a",
+    "revision": "5c745dcc6980d5cde8f79428dbb8e4f4",
     "url": "/express-fm/index.html"
   },
   {
-    "revision": "fe3d31b704d82569cec0",
-    "url": "/express-fm/static/css/2.e5cc46b6.chunk.css"
+    "revision": "4663fb575f581a3393b6",
+    "url": "/express-fm/static/css/main.98212c89.chunk.css"
   },
   {
-    "revision": "d165e1d8fb54c567a84b",
-    "url": "/express-fm/static/css/main.1aed6464.chunk.css"
+    "revision": "dbc4d6fadfd69cc60d65",
+    "url": "/express-fm/static/js/2.96c3808a.chunk.js"
   },
   {
-    "revision": "fe3d31b704d82569cec0",
-    "url": "/express-fm/static/js/2.14ce788b.chunk.js"
+    "revision": "097aa4d417792c624743694f2f2c361c",
+    "url": "/express-fm/static/js/2.96c3808a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e9933e35dbafc137323728b680649d5",
-    "url": "/express-fm/static/js/2.14ce788b.chunk.js.LICENSE.txt"
-  },
-  {
-    "revision": "d165e1d8fb54c567a84b",
-    "url": "/express-fm/static/js/main.1277a8b1.chunk.js"
+    "revision": "4663fb575f581a3393b6",
+    "url": "/express-fm/static/js/main.021aac4a.chunk.js"
   },
   {
     "revision": "ad68fa938e84653a3bf9",
@@ -44,18 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/express-fm/static/media/feature-tile-icon-03.66f37ba5.svg"
   },
   {
-    "revision": "836acd100a942420f8ab4e6c5e4162d8",
-    "url": "/express-fm/static/media/feature-tile-icon-04.836acd10.svg"
-  },
-  {
-    "revision": "fa9ba00b178abc7bd2e02bd986e91fe3",
-    "url": "/express-fm/static/media/feature-tile-icon-05.fa9ba00b.svg"
-  },
-  {
-    "revision": "6a1776963deb39d710bae80bb449aebe",
-    "url": "/express-fm/static/media/feature-tile-icon-06.6a177696.svg"
-  },
-  {
     "revision": "37c609c4d16b16970f083f7c533ab9f4",
     "url": "/express-fm/static/media/illustration-section-01.37c609c4.svg"
   },
@@ -64,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/express-fm/static/media/illustration-section-02.63d0555d.svg"
   },
   {
-    "revision": "25f003812cbc9789e60815f7ea21e9e2",
-    "url": "/express-fm/static/media/logo-player.25f00381.png"
+    "revision": "a8a7eacecfe8b98cb2034e03fa45f95d",
+    "url": "/express-fm/static/media/logo-express-web.a8a7eace.png"
   },
   {
     "revision": "e69f4151341ee8923de5449b5baed01f",
